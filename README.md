@@ -1,6 +1,8 @@
 # Lita_class_documentation
 ### Project Title: E Commerce Sales Analysis
-
+[Project Overview](#project-overview)
+[data Analysis](#data-analysis)
+[Data Sources](#data-sources)
 ---
 ### Project Overview 
 This data Analysis project aims to generae insights into the sales perfomance of the e commerce project over the ppast year
@@ -39,7 +41,11 @@ where condition = true
 ### Data visualization![8e058602-3e01-481d-86cb-19082e85c4af](https://github.com/user-attachments/assets/aff5e724-c94f-4045-8d54-567db6d81223)
 he used bar chart and other chart but I don't have so I am using any picture on my laptop
 
-
+😆
+👦
+|heading 1|heading 2|heading 3|
+|---------|---------|---------|
+|table 1|table 2|table 3|
 
 
 
