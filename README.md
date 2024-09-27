@@ -36,6 +36,8 @@ select from table1
 where condition = true
 ```
 
+### Data visualization
+
 
 
 
