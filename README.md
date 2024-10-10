@@ -44,8 +44,8 @@ select from table1
 where condition = true
 ```
 
-### Data visualization![8e058602-3e01-481d-86cb-19082e85c4af](https://github.com/user-attachments/assets/aff5e724-c94f-4045-8d54-567db6d81223)
-he used bar chart and other chart but I don't have so I am using any picture on my laptop
+### Data visualization
+
 
 😆
 👦
